@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 
 gem 'rails', '5.0.0'
-
+gem 'bootstrap-sass', '3.3.6'
 
 
 gem 'puma', '3.4.0'
@@ -17,7 +17,7 @@ gem 'coffee-rails', '4.2.1'
 gem 'jquery-rails','4.1.1'
 
 gem 'turbolinks', '5'
-
+gem 'rails-controller-testing'
 gem 'jbuilder', '2.4.1'
 group :production do
   gem 'pg', '0.18.4'
