@@ -7,7 +7,7 @@ gem 'bootstrap-sass', '3.3.6'
 
 
 gem 'puma', '3.4.0'
-
+gem 'bcrypt', '3.1.11'
 gem 'sass-rails', '~> 5.0.6'
 
 gem 'uglifier', '3.0.0'
